@@ -1,0 +1,1 @@
+ YouTube Clone is a dynamic and fully functional video streaming platform designed to replicate the core features of YouTube. Built with the powerful MERN stack (MongoDB, Express.js, React.js, and Node.js), this project showcases my expertise in full stack web development, offering a seamless and immersive user experience for video content consumption. 
